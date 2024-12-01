@@ -1,0 +1,17 @@
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\bin\Debug\login_registrarion.exe.config
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\bin\Debug\login_registrarion.exe
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\bin\Debug\login_registrarion.pdb
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion.csproj.AssemblyReference.cache
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\MainWindow.g.cs
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\App.g.cs
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion_MarkupCompile.cache
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion_MarkupCompile.lref
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\MainWindow.baml
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion.g.resources
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion.Properties.Resources.resources
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion.csproj.GenerateResource.cache
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion.csproj.CoreCompileInputs.cache
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion.exe
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\login_registrarion.pdb
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\Window2xaml.g.cs
+D:\SCRIPTS_AND_CODE\login_registrarion\login_registrarion\obj\Debug\Window2xaml.baml
